@@ -17,7 +17,7 @@
 
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwynger&layout=compact)]
 
 <div id="header" align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gwynger&theme=ocean_dark">
