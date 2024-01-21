@@ -17,8 +17,8 @@ Hi, I'm Backend Developer.
 <img src="https://camo.githubusercontent.com/9d03dbe01f55e0e558f6c5096826c0c44257900a2805804b2b8202d58bea046c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d7265637426636f6c6f723d6772616469656e74266865696768743d31">
 
 ### My contact:
-![Static Badge](https://img.shields.io/badge/gwynger%40yandex.ru-orange?style=flat-square)
-![Static Badge](https://img.shields.io/badge/Telegram-%2300008B?style=flat-square&logo=telegram&link=https%3A%2F%2Ft.me%2FGwynger)
+[![Yandex](https://img.shields.io/badge/-gwynger@yandex.ru-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:gwynger@yandex.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-%2300008B?style=flat-square&logo=Telegram)](https://t.me/gwynger)
 
 <img src="https://camo.githubusercontent.com/9d03dbe01f55e0e558f6c5096826c0c44257900a2805804b2b8202d58bea046c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d7265637426636f6c6f723d6772616469656e74266865696768743d31">
 
