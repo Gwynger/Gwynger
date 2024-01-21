@@ -22,7 +22,7 @@
 
 
 <div id="header">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwynger&layout=compact" width=400>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwynger&layout=compact" width=350>
 </div>
 
 
