@@ -20,7 +20,7 @@
 
 
 <div id="header" align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gwynger&theme=ocean_dark" width=4000>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gwynger&theme=ocean_dark" width=2000>
 </div>
 
 
