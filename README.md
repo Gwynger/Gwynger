@@ -45,8 +45,8 @@ Hi, I'm Backend Developer.
 <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width=300>
 </div>
 
-<img src="https://camo.githubusercontent.com/9d03dbe01f55e0e558f6c5096826c0c44257900a2805804b2b8202d58bea046c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d7265637426636f6c6f723d6772616469656e74266865696768743d31">
-
 <div id="header" align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gwynger&theme=ocean_dark" width=1000>
 </div>
+
+<img src="https://camo.githubusercontent.com/9d03dbe01f55e0e558f6c5096826c0c44257900a2805804b2b8202d58bea046c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d7265637426636f6c6f723d6772616469656e74266865696768743d31">
