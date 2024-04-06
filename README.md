@@ -9,8 +9,9 @@
 
 Hi, I'm Backend Developer. 
 
-- Doing freelance projects. 
-- I study technologies that I find interesting.
+- Working in the travel industry
+- Creating interesting projects
+- I study technologies that I find interesting
 - I do like automation 🤖
 
 
