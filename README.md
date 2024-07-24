@@ -9,7 +9,6 @@
 
 Hi, I'm Backend Developer. 
 
-- Working in the travel industry
 - Creating interesting projects
 - I study technologies that I find interesting
 - I do like automation 🤖
