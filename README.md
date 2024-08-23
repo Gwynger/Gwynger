@@ -9,9 +9,9 @@
 
 Hi, I'm a Backend Developer and QA Automation Engineer.
 
-I create various projects.
-I study new technologies that help me in my work and personal projects.
-I automate everything I can get my hands on 🤖.
+I create various projects.  
+I study new technologies that help me in my work and personal projects.  
+I automate everything I can get my hands on 🤖.  
 
 
 <img src="https://camo.githubusercontent.com/9d03dbe01f55e0e558f6c5096826c0c44257900a2805804b2b8202d58bea046c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d7265637426636f6c6f723d6772616469656e74266865696768743d31">
