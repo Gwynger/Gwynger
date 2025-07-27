@@ -12,7 +12,7 @@ I automate everything I can get my hands on 🤖.
 
 ### My contact:
 [![Yandex](https://img.shields.io/badge/-gwynger@yandex.ru-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:gwynger@yandex.ru)
-[![Telegram](https://img.shields.io/badge/Telegram-%2300008B?style=flat-square&logo=Telegram)](https://t.me/gwynger)
+[![Telegram](https://img.shields.io/badge/Telegram-%2300008B?style=flat-square&logo=Telegram)](https://t.me/Talipov_Sergey)
 
 
 ### Language & Tools:
