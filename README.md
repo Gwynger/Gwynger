@@ -8,12 +8,11 @@ Backend Developer & QA Automation Engineer by profession. Professional bug hunte
 
 I build backends, automate things that probably didn't need automating, and occasionally venture into frontend development just to remind myself why I love APIs.
 My playground includes Python, Go, TypeScript, React, PostgreSQL, Docker, Linux, and whatever new technology catches my attention at 2 AM.
-Currently building my own projects — from marketplaces to dungeon crawlers - because apparently debugging software all day isn't enough.
+Currently building my own projects - from marketplaces to dungeon crawlers - because apparently debugging software all day isn't enough.
 
 Life motto: If I have to do it twice, I'm writing a script. 🤖
 
 ### My contact:
-[![Yandex](https://img.shields.io/badge/-gwynger@yandex.ru-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:gwynger@yandex.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-%2300008B?style=flat-square&logo=Telegram)](https://t.me/Talipov_Sergey)
 
 
